@@ -21,7 +21,7 @@ $std_data = mysqli_query($conn, $sql_q);
         <?php include_once('../nav.php') ?>
             <div class="main-content">
                 <div class="header">
-                    <h4>STUDENTS</h4>
+                    <h4>STUDENT</h4>
                 </div>
                 <div class="content-card">
                     <div class="student-table">
